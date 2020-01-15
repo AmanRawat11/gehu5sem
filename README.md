@@ -1,2 +1,2 @@
-# gehu5sem
-Mid term practical
+# Sankalp5sem
+End term practical
